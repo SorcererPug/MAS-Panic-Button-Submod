@@ -1,5 +1,4 @@
-# MAS-Panic-Button-Submod
-## By cooliocolophon
+# MAS-Panic-Button-Submod | By cooliocolophon
 
 This submod adds a panic button to quickly close the game. Use the Q key to trigger the panic button. To install:
 
